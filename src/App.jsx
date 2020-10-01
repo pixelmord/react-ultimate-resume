@@ -65,7 +65,9 @@ function App() {
                 },
                 // dismissFooter : true
                 // showContactInfos: true,
+                // maxSkills: 6,
                 customization,
+                disableSortableExperience: false,
                 maxCardsPerRow: 3
             }}
             additionalNodes={{
